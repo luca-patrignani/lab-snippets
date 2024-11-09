@@ -176,6 +176,14 @@
             "args": [
                 "localhost:8080"
             ],
+        },{
+            "name": "Exercise",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "snippets.lab3.exercise_tcp_group_chat",
+            "args": [
+                "8080",
+            ],
         },
     ]
 }
